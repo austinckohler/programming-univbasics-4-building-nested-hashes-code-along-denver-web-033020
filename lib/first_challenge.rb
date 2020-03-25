@@ -64,3 +64,4 @@ epic_tragedy = {
   :capulet => {}
 }
 end
+puts first_challenge
